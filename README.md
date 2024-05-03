@@ -1,0 +1,1 @@
+#Django - skolni ukol
